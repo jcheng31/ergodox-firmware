@@ -270,10 +270,10 @@ KB_MATRIX_LAYER(
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	lpop1,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
-	NULL,	mprrel,	kprrel,	kprrel,	mprrel,	
+	NULL,	mprrel,	mprrel,	mprrel,	mprrel,	
 	NULL,	NULL,	
 	NULL,	NULL,	NULL,	
-	mprrel,	kprrel,	NULL,	
+	mprrel,	mprrel,	NULL,	
 	// right hand
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	NULL,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
